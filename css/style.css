@@ -1,0 +1,43 @@
+body {
+    background-color: #c9eaec81;
+}
+
+.main-title {
+    background-color: #79a0a3;
+}
+
+#first-paragraph {
+    background-color: #42b9c2;
+}
+
+h2 {
+    background-color: #6b696981;
+}
+
+#second-paragraph {
+    background-color: #91f8ff;
+}
+
+.list {
+    background-color: rgb(81, 215, 224);
+}
+
+#point-one {
+    color: rgb(32, 18, 231);
+}
+
+#point-two {
+    color: rgb(65, 20, 189);
+}
+
+#point-three {
+    color: rgb(54, 75, 145);
+}
+
+#point-four {
+    color: rgb(102, 103, 160);
+}
+
+#point-five {
+    color: rgb(96, 95, 122);
+}
